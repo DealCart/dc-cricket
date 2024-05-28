@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "cricket-testing"
+rootProject.name = "dc-cricket"
 include ':app'
 include ':dc-cricket'
