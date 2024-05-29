@@ -10,7 +10,7 @@ plugins {
 
 android {
     namespace 'com.example.dc_cricket'
-    compileSdk 34
+    compileSdk 33
 
     defaultConfig {
         minSdk 21
